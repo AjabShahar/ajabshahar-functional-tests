@@ -10,6 +10,11 @@ public class SongPageMap {
         listOfLocatorsOnSong.put("Singer", "singers");
         listOfLocatorsOnSong.put("Words", "words");
         listOfLocatorsOnSong.put("Reflections", "reflections");
+        listOfLocatorsOnSong.put("Poet", "");
+        listOfLocatorsOnSong.put("Gatherings", "");
+        listOfLocatorsOnSong.put("ShowOnLandingPage", "");
+        listOfLocatorsOnSong.put("SongCategory", "");
+        listOfLocatorsOnSong.put("Publish", "");
         listOfLocatorsOnSong.put("Duration", "duration");
         listOfLocatorsOnSong.put("YouTubeVideoId", "youtubeVideoId");
         listOfLocatorsOnSong.put("SoundCloudTrackId", "soundCloudTrackID");
